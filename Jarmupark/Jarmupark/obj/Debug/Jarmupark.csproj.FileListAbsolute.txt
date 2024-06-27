@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\bin\Debug\Jarmupark.exe.config
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\bin\Debug\Jarmupark.exe
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\bin\Debug\Jarmupark.pdb
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.exe
+C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.pdb
