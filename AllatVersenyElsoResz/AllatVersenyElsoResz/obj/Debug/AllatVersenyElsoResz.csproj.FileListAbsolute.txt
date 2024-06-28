@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\bin\Debug\AllatVersenyElsoResz.exe.config
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\bin\Debug\AllatVersenyElsoResz.exe
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\bin\Debug\AllatVersenyElsoResz.pdb
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\obj\Debug\AllatVersenyElsoResz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\obj\Debug\AllatVersenyElsoResz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\obj\Debug\AllatVersenyElsoResz.exe
+C:\Users\user\Desktop\C#\AllatVersenyElsoResz\AllatVersenyElsoResz\obj\Debug\AllatVersenyElsoResz.pdb
