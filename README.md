@@ -1,6 +1,7 @@
 # Feladatok Kiss Gábor
 1. AllatVersenyElsoResz
 2. Állat
-2. HaziDalVerseny
-3. AllatVersenyFolytatas
-4. Jarmupark
+3. HaziDalVerseny
+4. AllatVersenyFolytatas
+5. Jarmupark
+6. DatumFeladat
