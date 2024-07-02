@@ -6,3 +6,4 @@
 5. Jarmupark
 6. DatumFeladat
 7. DatumRaadas
+8. UszoVerseny
