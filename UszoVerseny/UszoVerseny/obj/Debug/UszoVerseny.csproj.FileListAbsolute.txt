@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.Form1.resources
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.Properties.Resources.resources
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\bin\Debug\UszoVerseny.exe.config
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\bin\Debug\UszoVerseny.exe
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\bin\Debug\UszoVerseny.pdb
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.exe
+C:\Users\user\Desktop\C#\UszoVerseny\UszoVerseny\obj\Debug\UszoVerseny.pdb
