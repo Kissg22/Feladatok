@@ -1,0 +1,8 @@
+001;Jakabos Zsuzsanna;1989.04.03;Magyarország;2:05.18
+002;Cseh László;1985.12.03;Magyarország;2:02.45
+003;Hosszú Katinka;1989.05.03;Magyarország;2:01.35
+004;Milák Kristóf;2000.02.20;Magyarország;2:00.50
+005;Verrasztó Dávid;1988.08.22;Magyarország;2:03.20
+006;Gyurta Dániel;1989.05.04;Magyarország;2:04.10
+007;Kenderesi Tamás;1996.12.13;Magyarország;2:01.90
+008;Bohus Richárd;1993.04.09;Magyarország;2:06.00
