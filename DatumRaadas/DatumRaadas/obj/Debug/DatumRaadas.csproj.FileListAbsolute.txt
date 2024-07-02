@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\bin\Debug\DatumRaadas.exe.config
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\bin\Debug\DatumRaadas.exe
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\bin\Debug\DatumRaadas.pdb
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.Form1.resources
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.Properties.Resources.resources
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.exe
+C:\Users\user\Desktop\C#\DatumRaadas\DatumRaadas\obj\Debug\DatumRaadas.pdb
