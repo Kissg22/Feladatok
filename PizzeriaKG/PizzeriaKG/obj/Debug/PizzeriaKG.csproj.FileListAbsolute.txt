@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\bin\Debug\PizzeriaKG.exe.config
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\bin\Debug\PizzeriaKG.exe
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\bin\Debug\PizzeriaKG.pdb
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.Properties.Resources.resources
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.exe
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.pdb
+C:\Users\user\Desktop\C#\PizzeriaKG\PizzeriaKG\obj\Debug\PizzeriaKG.Form1.resources

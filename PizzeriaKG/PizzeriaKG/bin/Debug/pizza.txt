@@ -1,0 +1,20 @@
+Margaréta;1000;1500
+Hawaii;1200;1700
+Pepperoni;1100;1600
+Húsimádó;1300;1800
+Vegetáriánus;900;1400
+Kolbászos;1150;1650
+Sonkás;1050;1550
+Szalámis;1250;1750
+Gombás;950;1450
+Mexikói;1350;1850
+Tonhalas;1100;1600
+Füstölt sajtos;1200;1700
+Csípős szalámis;1300;1800
+Baconös;1150;1650
+Medvehagymás;1000;1500
+Kukoricás;950;1450
+Bolognai;1250;1750
+Tenger gyümölcsei;1400;1900
+Spenótos;1050;1550
+Csirkemáj pástétomos;1100;1600
