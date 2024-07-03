@@ -7,3 +7,4 @@
 6. DatumFeladat
 7. DatumRaadas
 8. UszoVerseny
+9. Pizzéria
