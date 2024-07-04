@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\bin\Debug\DiakkezeloBResz.exe.config
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\bin\Debug\DiakkezeloBResz.exe
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\bin\Debug\DiakkezeloBResz.pdb
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.Form1.resources
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.Properties.Resources.resources
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.exe
+C:\Users\user\Desktop\C#\DiakkezeloBResz\DiakkezeloBResz\obj\Debug\DiakkezeloBResz.pdb

@@ -1,0 +1,17 @@
+Hegedűs Emma;HHMAB.PTE;1990
+Nagy Péter;NPTE.BME;1992
+Kovács Éva;KEVA.SZTE;1988
+Tóth Tamás;TTAM.BME;1991
+Szabó Anna;SANN.PTE;1993
+Kiss János;KJAN.BME;1987
+Varga László;VLAS.SOTE;1985
+Molnár Zsuzsanna;MZSU.ELTE;1989
+Balogh Ferenc;BFER.BME;1994
+Németh István;NIST.PTE;1990
+Takács Róbert;TROB.SZTE;1986
+Farkas Béla;FBEL.BME;1987
+Horváth Márta;HMAR.ELTE;1991
+Kelemen Dávid;KDAV.SOTE;1988
+Pataki Judit;PJUD.PTE;1993
+Bíró Katalin;BKAT.SZTE;1985
+Juhász Gergely;JGER.BME;1989
