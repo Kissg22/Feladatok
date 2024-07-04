@@ -157,7 +157,7 @@ namespace AllatVersenyFolytatas
 
         private void Regisztracio()
         {
-            StreamReader olvasoCsatorna = new StreamReader("C:\\Users\\user\\Desktop\\C#\\AllatVersenyFolytatas\\allatok.txt");
+            StreamReader olvasoCsatorna = new StreamReader("allatok.txt");
             string fajta, nev;
             int rajtSzam = 1, szulEv;
             bool vanDoboz;

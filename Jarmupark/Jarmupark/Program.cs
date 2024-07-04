@@ -164,7 +164,7 @@ namespace Jarmupark
 
             try
             {
-                using (StreamReader sr = new StreamReader("C:\\Users\\user\\Desktop\\C#\\Jarmupark\\jarmu_adatok.txt"))
+                using (StreamReader sr = new StreamReader("jarmu_adatok.txt"))
                 {
                     while (!sr.EndOfStream)
                     {

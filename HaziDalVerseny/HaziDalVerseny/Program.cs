@@ -10,12 +10,10 @@ namespace HaziDalVerseny
 {
     class Versenyzo
     {
-
         private int rajtSzam;
         private string nev;
         private string szak;
         private int pontSzam;
-
 
         public Versenyzo(int rajtSzam, string nev, string szak)
         {
@@ -23,7 +21,6 @@ namespace HaziDalVerseny
             this.nev = nev;
             this.szak = szak;
         }
-
 
         public void PontotKap(int pont)
         {
@@ -35,25 +32,27 @@ namespace HaziDalVerseny
             return $"{rajtSzam,-5} {nev,-20} {szak,-20} {pontSzam,-2} pont";
         }
 
-
-
         public int RajtSzam
         {
             get { return rajtSzam; }
-        }ClaimValueTypes 
+        }
+
         public string Nev
         {
             get { return nev; }
         }
+
         public string Szak
         {
             get { return szak; }
         }
+
         public int PontSzam
         {
             get { return pontSzam; }
         }
     }
+
 
 
 
@@ -77,7 +76,7 @@ namespace HaziDalVerseny
         {
             string nev, szak;
             int sorszam = 1;
-            StreamReader olvasoCsatorna = new StreamReader("C:\\Users\\user\\Desktop\\C#\\HaziDalVerseny\\versenyzok.txt");
+            StreamReader olvasoCsatorna = new StreamReader("versenyzok.txt");
             while (!olvasoCsatorna.EndOfStream)
             {
 

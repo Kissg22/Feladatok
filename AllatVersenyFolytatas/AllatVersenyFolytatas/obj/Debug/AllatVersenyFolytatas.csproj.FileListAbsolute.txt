@@ -5,3 +5,10 @@ C:\Users\user\Desktop\C#\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\A
 C:\Users\user\Desktop\C#\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\C#\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.exe
 C:\Users\user\Desktop\C#\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.pdb
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\bin\Debug\AllatVersenyFolytatas.exe.config
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\bin\Debug\AllatVersenyFolytatas.exe
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\bin\Debug\AllatVersenyFolytatas.pdb
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.exe
+C:\Users\user\Desktop\github\Feladatok\AllatVersenyFolytatas\AllatVersenyFolytatas\obj\Debug\AllatVersenyFolytatas.pdb

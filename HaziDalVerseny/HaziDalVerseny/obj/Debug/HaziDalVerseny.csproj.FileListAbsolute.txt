@@ -5,3 +5,10 @@ C:\Users\user\Desktop\C#\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.
 C:\Users\user\Desktop\C#\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\C#\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.exe
 C:\Users\user\Desktop\C#\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.pdb
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.exe
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\obj\Debug\HaziDalVerseny.pdb
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\bin\Debug\HaziDalVerseny.exe.config
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\bin\Debug\HaziDalVerseny.exe
+C:\Users\user\Desktop\github\Feladatok\HaziDalVerseny\HaziDalVerseny\bin\Debug\HaziDalVerseny.pdb

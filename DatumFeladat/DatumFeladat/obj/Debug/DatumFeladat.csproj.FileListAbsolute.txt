@@ -8,3 +8,13 @@ C:\Users\user\Desktop\C#\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.csproj
 C:\Users\user\Desktop\C#\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\C#\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.exe
 C:\Users\user\Desktop\C#\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.pdb
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\bin\Debug\DatumFeladat.exe.config
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\bin\Debug\DatumFeladat.exe
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\bin\Debug\DatumFeladat.pdb
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.Form1.resources
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.Properties.Resources.resources
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.exe
+C:\Users\user\Desktop\github\Feladatok\DatumFeladat\DatumFeladat\obj\Debug\DatumFeladat.pdb

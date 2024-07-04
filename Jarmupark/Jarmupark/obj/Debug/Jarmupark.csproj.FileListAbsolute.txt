@@ -5,3 +5,10 @@ C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.Assembly
 C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.exe
 C:\Users\user\Desktop\C#\Jarmupark\Jarmupark\obj\Debug\Jarmupark.pdb
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\bin\Debug\Jarmupark.exe.config
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\bin\Debug\Jarmupark.exe
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\bin\Debug\Jarmupark.pdb
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\obj\Debug\Jarmupark.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\obj\Debug\Jarmupark.exe
+C:\Users\user\Desktop\github\Feladatok\Jarmupark\Jarmupark\obj\Debug\Jarmupark.pdb
