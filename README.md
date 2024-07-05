@@ -11,3 +11,4 @@
 9. Pizzéria
 10. Diakkezelo
 11. DiakkezeloBResz
+12. ItalLap
