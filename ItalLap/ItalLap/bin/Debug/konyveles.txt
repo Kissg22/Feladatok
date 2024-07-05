@@ -1,0 +1,13 @@
+Sör;0;0
+Bor;0;0
+Pálinka;0;0
+Whisky;0;0
+Vodka;0;0
+Rum;0;0
+Gin;0;0
+Tequila;0;0
+Cider;43;34400
+Likőr;43;51600
+Konyak;0;0
+Sangria;0;0
+Martini;0;0

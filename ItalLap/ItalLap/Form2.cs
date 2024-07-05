@@ -13,55 +13,7 @@ namespace ItalLap
 {
     public partial class Form2 : Form
     {
-        public class Ital
-        {
-            public string ItalNev { get; set; }
-            public int EgysegAr { get; set; }
-            public int Mennyiseg { get; private set; }
-            public int OsszMennyiseg { get; private set; }
-            public int Bevetel { get; private set; }
 
-
-            public Ital(string italNev, int egysegAr)
-            {
-                this.ItalNev = italNev;
-                this.EgysegAr = egysegAr;
-                this.Mennyiseg = 0; // Kezdetben a mennyiség 0
-            }
-
-            public void Rendel(int db)
-            {
-                Mennyiseg += db;
-            }
-
-            public int Fizetendo()
-            {
-                return Mennyiseg * EgysegAr;
-            }
-
-            public void Fizet()
-            {
-                OsszMennyiseg += Mennyiseg;
-                Bevetel += Mennyiseg * EgysegAr;
-                Mennyiseg = 0;
-            }
-
-            public string Arlistaba()
-            {
-                return ItalNev + " (" + EgysegAr + " Ft)";
-            }
-
-            public string Konyvelesbe()
-            {
-                return ItalNev + ";" + OsszMennyiseg + ";" + Bevetel;
-            }
-
-            public override string ToString()
-            {
-                return Mennyiseg.ToString().PadLeft(4) + " " + ItalNev.PadRight(35) + Fizetendo().ToString().PadLeft(10) + " Ft";
-            }
-
-        }
         public Form2()
         {
 
@@ -73,7 +25,7 @@ namespace ItalLap
         private List<CheckBox> chkBoxok = new List<CheckBox>();
         private List<TextBox> txtBoxok = new List<TextBox>();
 
-        private int bal = 10, fent = 10, chkXMeret = 250, chkYTav = 40, txtXmeret = 30, txtYmeret = 17, xkoz = 5;
+        private int bal = 10, fent = 10, chkXMeret = 250, chkYTav = 40, txtXmeret = 30, txtYmeret = 17, xkoz = 100;
 
         private void fizetToolStripMenuItem_Click(object sender, EventArgs e)
         {

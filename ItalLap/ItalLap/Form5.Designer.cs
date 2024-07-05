@@ -1,6 +1,6 @@
 ﻿namespace ItalLap
 {
-    partial class Form4
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -28,35 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.richTextBoxSzamla = new System.Windows.Forms.RichTextBox();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form5));
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // richTextBoxSzamla
+            // richTextBox1
             // 
-            this.richTextBoxSzamla.Location = new System.Drawing.Point(58, 64);
-            this.richTextBoxSzamla.Name = "richTextBoxSzamla";
-            this.richTextBoxSzamla.ReadOnly = true;
-            this.richTextBoxSzamla.Size = new System.Drawing.Size(542, 332);
-            this.richTextBoxSzamla.TabIndex = 0;
-            this.richTextBoxSzamla.TabStop = false;
-            this.richTextBoxSzamla.Text = "";
+            this.richTextBox1.Enabled = false;
+            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.richTextBox1.Location = new System.Drawing.Point(36, 42);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
+            this.richTextBox1.Size = new System.Drawing.Size(408, 366);
+            this.richTextBox1.TabIndex = 0;
+            this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
             // 
-            // Form4
+            // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(664, 450);
-            this.Controls.Add(this.richTextBoxSzamla);
-            this.MaximizeBox = false;
-            this.Name = "Form4";
-            this.Text = "Számla";
+            this.ClientSize = new System.Drawing.Size(489, 450);
+            this.Controls.Add(this.richTextBox1);
+            this.Name = "Form5";
+            this.Text = "Súgó";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox richTextBoxSzamla;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

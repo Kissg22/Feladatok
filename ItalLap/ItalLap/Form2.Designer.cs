@@ -41,9 +41,9 @@
             // btnRendel
             // 
             this.btnRendel.ContextMenuStrip = this.contextMenuStrip1;
-            this.btnRendel.Location = new System.Drawing.Point(328, 382);
+            this.btnRendel.Location = new System.Drawing.Point(232, 484);
             this.btnRendel.Name = "btnRendel";
-            this.btnRendel.Size = new System.Drawing.Size(75, 23);
+            this.btnRendel.Size = new System.Drawing.Size(106, 38);
             this.btnRendel.TabIndex = 0;
             this.btnRendel.Text = "Rendel";
             this.btnRendel.UseVisualStyleBackColor = true;
@@ -55,29 +55,29 @@
             this.szamlaMenu,
             this.fizetToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(181, 70);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(135, 48);
             // 
             // szamlaMenu
             // 
             this.szamlaMenu.Name = "szamlaMenu";
-            this.szamlaMenu.Size = new System.Drawing.Size(180, 22);
+            this.szamlaMenu.Size = new System.Drawing.Size(134, 22);
             this.szamlaMenu.Text = "Számlát kér";
             this.szamlaMenu.Click += new System.EventHandler(this.szamlaMenu_Click);
             // 
             // fizetToolStripMenuItem
             // 
             this.fizetToolStripMenuItem.Name = "fizetToolStripMenuItem";
-            this.fizetToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fizetToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.fizetToolStripMenuItem.Text = "Fizet";
             this.fizetToolStripMenuItem.Click += new System.EventHandler(this.fizetToolStripMenuItem_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(324, 33);
+            this.label1.Font = new System.Drawing.Font("Harlow Solid Italic", 21.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(236, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(67, 25);
+            this.label1.Size = new System.Drawing.Size(113, 36);
             this.label1.TabIndex = 1;
             this.label1.Text = "Árlista";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -85,19 +85,21 @@
             // pnlValasztek
             // 
             this.pnlValasztek.AutoScroll = true;
-            this.pnlValasztek.Location = new System.Drawing.Point(154, 117);
+            this.pnlValasztek.Location = new System.Drawing.Point(83, 99);
             this.pnlValasztek.Name = "pnlValasztek";
-            this.pnlValasztek.Size = new System.Drawing.Size(461, 223);
+            this.pnlValasztek.Size = new System.Drawing.Size(461, 354);
             this.pnlValasztek.TabIndex = 2;
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(635, 550);
             this.Controls.Add(this.pnlValasztek);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRendel);
+            this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MinimizeBox = false;
             this.Name = "Form2";

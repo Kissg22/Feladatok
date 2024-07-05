@@ -15,17 +15,55 @@ namespace ItalLap
     {
         private List<Ital> italok = new List<Ital>();
         private List<Image> kepek = new List<Image>();
-        private int kepekSzama = 10;
+        private int kepekSzama = 3;
         public class Ital
         {
-            public string ItalNev { get; private set; }
+            public string ItalNev { get; set; }
             public int EgysegAr { get; set; }
+            public int Mennyiseg { get; private set; }
+            public int OsszMennyiseg { get; private set; }
+            public int Bevetel { get; private set; }
+
 
             public Ital(string italNev, int egysegAr)
             {
                 this.ItalNev = italNev;
                 this.EgysegAr = egysegAr;
+                this.Mennyiseg = 0; // Kezdetben a mennyiség 0
             }
+
+            public void Rendel(int db)
+            {
+                Mennyiseg += db;
+            }
+
+            public int Fizetendo()
+            {
+                return Mennyiseg * EgysegAr;
+            }
+
+            public void Fizet()
+            {
+                OsszMennyiseg += Mennyiseg;
+                Bevetel += Mennyiseg * EgysegAr;
+                Mennyiseg = 0;
+            }
+
+            public string Arlistaba()
+            {
+                return ItalNev + " (" + EgysegAr + " Ft)";
+            }
+
+            public string Konyvelesbe()
+            {
+                return ItalNev + ";" + OsszMennyiseg + ";" + Bevetel;
+            }
+
+            public override string ToString()
+            {
+                return Mennyiseg.ToString().PadLeft(5) + " " + ItalNev.PadRight(60) + Fizetendo().ToString().PadLeft(90) + " Ft";
+            }
+
         }
 
         public Form1()
@@ -36,6 +74,15 @@ namespace ItalLap
             openFileDialog1.FileName = "arlap.txt";
             saveFileDialog1.InitialDirectory = Environment.CurrentDirectory;
             saveFileDialog1.FileName = "konyveles.txt";
+            mentesMenu.Enabled = false;
+            italLapMenu.Enabled = false;
+
+            megnyitasMenu.ShortcutKeys = Keys.Control | Keys.M;
+
+            mentesMenu.ShortcutKeys = Keys.Control | Keys.S;    
+
+            kilepesMenu.ShortcutKeys = Keys.Alt | Keys.F4;       
+
         }
 
 
@@ -71,7 +118,8 @@ namespace ItalLap
 
         private void sugoMenu_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ez egy egyszerű italrendelési alkalmazás. Használja a menüpontokat a navigációhoz.", "Súgó");
+            Form5 sugo = new Form5();
+            sugo.ShowDialog();
         }
 
         private void nevjegyMenu_Click(object sender, EventArgs e)

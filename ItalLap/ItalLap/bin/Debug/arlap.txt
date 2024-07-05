@@ -1,3 +1,13 @@
 Sör;500
 Bor;1000
 Pálinka;1500
+Whisky;2000
+Vodka;1800
+Rum;1600
+Gin;1900
+Tequila;2100
+Cider;800
+Likőr;1200
+Konyak;2200
+Sangria;900
+Martini;1300

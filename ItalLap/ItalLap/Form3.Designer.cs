@@ -42,6 +42,7 @@
             this.btnBal.Name = "btnBal";
             this.btnBal.Size = new System.Drawing.Size(83, 45);
             this.btnBal.TabIndex = 3;
+            this.btnBal.TabStop = false;
             this.btnBal.UseVisualStyleBackColor = true;
             this.btnBal.Click += new System.EventHandler(this.btnBal_Click);
             // 
@@ -53,6 +54,7 @@
             this.btnJobb.Name = "btnJobb";
             this.btnJobb.Size = new System.Drawing.Size(83, 45);
             this.btnJobb.TabIndex = 2;
+            this.btnJobb.TabStop = false;
             this.btnJobb.UseVisualStyleBackColor = true;
             this.btnJobb.Click += new System.EventHandler(this.btnJobb_Click);
             // 
@@ -60,9 +62,9 @@
             // 
             this.pictureBox1.BackgroundImage = global::ItalLap.Properties.Resources.kep2;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(176, 57);
+            this.pictureBox1.Location = new System.Drawing.Point(53, 28);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(421, 306);
+            this.pictureBox1.Size = new System.Drawing.Size(704, 322);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
