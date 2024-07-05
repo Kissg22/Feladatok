@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\bin\Debug\ItalLap.exe.config
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\bin\Debug\ItalLap.exe
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\bin\Debug\ItalLap.pdb
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.Form1.resources
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.Properties.Resources.resources
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.exe
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.pdb
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.Form2.resources
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\bin\Debug\Bogus.dll
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\bin\Debug\Bogus.xml
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.Form3.resources
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.csproj.Up2Date
+C:\Users\user\Desktop\C#\ItalLap\ItalLap\obj\Debug\ItalLap.Form4.resources
