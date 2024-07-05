@@ -1,4 +1,5 @@
 # Feladatok Kiss Gábor
+# Megjegyzés: a txt fájlok a frladatok mappájában található: AktualisFeladat/bin/Debug/AktualisFeladat.txt
 1. AllatVersenyElsoResz
 2. Állat
 3. HaziDalVerseny
