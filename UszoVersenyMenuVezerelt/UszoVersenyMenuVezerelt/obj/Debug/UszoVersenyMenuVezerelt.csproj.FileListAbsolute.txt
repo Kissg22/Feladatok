@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\bin\Debug\UszoVersenyMenuVezerelt.exe.config
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\bin\Debug\UszoVersenyMenuVezerelt.exe
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\bin\Debug\UszoVersenyMenuVezerelt.pdb
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.Form1.resources
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.Properties.Resources.resources
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.exe
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.pdb
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.NevjegyForm.resources
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.versenyForm.resources
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.EredmenyForm.resources
+C:\Users\user\Desktop\C#\UszoVersenyMenuVezerelt\UszoVersenyMenuVezerelt\obj\Debug\UszoVersenyMenuVezerelt.ZaszloForm.resources
