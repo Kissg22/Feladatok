@@ -28,16 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
             this.SuspendLayout();
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Location = new System.Drawing.Point(26, 31);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(391, 228);
-            this.panel1.TabIndex = 0;
             // 
             // ZaszloForm
             // 
@@ -45,7 +36,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(448, 286);
-            this.Controls.Add(this.panel1);
             this.Name = "ZaszloForm";
             this.Text = "Résztvevő országok";
             this.ResumeLayout(false);
@@ -53,7 +43,5 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel panel1;
     }
 }

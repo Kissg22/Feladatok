@@ -18,10 +18,9 @@ namespace UszoVersenyMenuVezerelt
         {
             label1.Text = $"{tav} méteres {uszasNem} eredménye:";
 
-            // Másolja a versenyzők listát a helyi példányba
             this.versenyzok = new List<Versenyzo>(versenyzok);
 
-            lstVersenyzok.Items.Clear(); // Törli a korábbi elemeket
+            lstVersenyzok.Items.Clear(); 
             foreach (Versenyzo versenyzo in this.versenyzok)
             {
                 lstVersenyzok.Items.Add(versenyzo);
@@ -83,6 +82,11 @@ namespace UszoVersenyMenuVezerelt
         private void btnBezar_Click(object sender, EventArgs e)
         {
             this.Hide();
+            versenyzok.Clear();
+            lstVersenyzok.Items.Clear();
+            txtRajtszam.Clear();
+            txtOrszag.Clear();
+            txtIdoEredmeny.Clear();
         }
     }
 }

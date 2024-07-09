@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Windows.Forms;
 
-
 namespace UszoVersenyMenuVezerelt
 {
     public partial class Form1 : Form
@@ -20,8 +19,6 @@ namespace UszoVersenyMenuVezerelt
             openFileDialog1.FileName = "versenyzok.txt";
             saveFileDialog1.InitialDirectory = Environment.CurrentDirectory;
             saveFileDialog1.FileName = "kiir.txt";
-
-            versenyForm = new VersenyForm();
 
             versenytoolStripMenuItem2.Enabled = false;
             mentesToolStripMenuItem.Enabled = false;
@@ -68,6 +65,7 @@ namespace UszoVersenyMenuVezerelt
 
         private void versenytoolStripMenuItem2_Click(object sender, EventArgs e)
         {
+            versenyForm = new VersenyForm(); // Új példány létrehozása
             if (versenyForm != null)
             {
                 versenyForm.Fogad(versenyzok);
